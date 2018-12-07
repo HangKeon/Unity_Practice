@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/01.Scenes/Vector_Practice.unity
+  isLoaded: 1
+  isActive: 1

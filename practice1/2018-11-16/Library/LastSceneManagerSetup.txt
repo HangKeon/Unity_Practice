@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/01.Scenes/Earth_Moon_Rotation.unity
+  isLoaded: 1
+  isActive: 1
